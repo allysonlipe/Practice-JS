@@ -16,7 +16,7 @@ console.log(numero !== '10') // true
 
 console.clear() //limpa o console
 
-// conjunções lógicas
+// conjunções lógicas ---------------------
 
 // AND => &&
 

@@ -11,4 +11,4 @@ for (let i = 1; i <= 3; i++) {
     soma = soma + nota
 }
 
-console.log(soma/3)
+console.log(media=soma/3)

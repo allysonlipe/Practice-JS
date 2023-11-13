@@ -4,8 +4,8 @@ let idade = 26
 
 
 idade = 27 // number
-let numero = 30  // number 
-let altura = 1.79 // number
+let numero = 30  // number - int
+let altura = 1.79 // number - float
 let nome = 'Állyson' // string
 let estudando = true // boolean
 
